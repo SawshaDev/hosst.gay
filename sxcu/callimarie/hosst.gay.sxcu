@@ -1,9 +1,0 @@
-{
-  "DestinationType": "ImageUploader",
-  "RequestURL": "https://hosst.gay/upload",
-  "FileFormName": "image",
-  "Arguments": {
-    "secret_key": "Zbc97WQ1ntw4uw"
-  },
-  "URL": "$responseurl$"
-}
