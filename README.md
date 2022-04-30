@@ -1,3 +1,9 @@
+# DISCLAMER
+This repo will be out of date fast as we've moved our repos to a new organization! <br>
+Go see the new repos at: https://github.com/hosst-gay
+
+
+
 # hosst
 
 This is the source for the best free open sourced sharex image uploader
